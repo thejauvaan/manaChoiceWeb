@@ -1,0 +1,29 @@
+
+/* Card.css */
+.card {
+    display: inline-block; /* Display cards horizontally */
+    width: 240px; /* Increased card width */
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    margin-right: 20px; /* Add spacing between cards */
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #1b581e;
+  }
+  
+  .card p {
+    font-size: 14px;
+    text-align: center;
+    color: #1b581e;
+  }
+  
+  .card:hover {
+    background-color: #d0d0d0;
+  }

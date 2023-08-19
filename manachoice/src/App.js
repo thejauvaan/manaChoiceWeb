@@ -8,6 +8,7 @@ import WhatWeDo from "./WhatWeDo"; // Import WhatWeDo component
 import AboutUs from "./AboutUs"; // Import AboutUs component
 import ContactUs from "./ContactUs"; // Import ContactUs component
 import Careers from "./Careers"; // Import Careers component
+import "intersection-observer";
 
 const App = () => {
   useEffect(() => {
@@ -37,7 +38,7 @@ const App = () => {
       <div className="container">
         <img
           src={require("./logo/logo.png")}
-          alt="Farmer App Image"
+          alt="Farmer App"
           className="center-image animate-fade-in"
         />
         <h1 className="heading animate-fade-in">manaChoice</h1>

@@ -6,11 +6,12 @@ const AboutUs = () => {
       <h2>About Us</h2>
       <p>
         We are a team of passionate individuals dedicated to promoting organic
-        farming. manaChoice is a Startup company registered in Bengaluru, India.
-        With the use of emerging technologies, including web and mobile
-        app-based services, we are here to transform the way that the food
-        industry operates! To begin with, we aim to connect vegetable lovers on
-        one platform to serve freshly made Hygiene vegetables to the community.
+        farming. manaChoice is a startup company registered in Pakala, India.
+        Utilizing emerging technologies, including web and mobile app-based
+        services, we aim to transform the food industry. Initially, our goal is
+        to connect not only vegetable lovers, but also fruit enthusiasts, and
+        those seeking groceries, mineral water, and milk, on one platform to
+        deliver freshly made, hygienic produce and products to the community.
       </p>
       <div className="about-us-image-container">
         <div

@@ -5,9 +5,9 @@ const WhatWeDo = () => {
     <div className="section">
       <h2>What We Do</h2>
       <p>
-        We provide high-quality organic vegetables and fruits to our customers.{" "}
-        <br />
-        We are building manaChoice!
+        We offer high-quality organic vegetables, fruits, food items, and
+        groceries to our customers. <br />
+        At manaChoice, we are dedicated to building a better future!
       </p>
     </div>
   );

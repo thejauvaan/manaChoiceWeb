@@ -18,6 +18,14 @@ const Header = () => {
         <Link to="careers" smooth={true} duration={500} className="nav-link">
           Careers
         </Link>
+        <Link
+          to="Privacypolicy"
+          smooth={true}
+          duration={500}
+          className="nav-link"
+        >
+          Privacy policy
+        </Link>
       </nav>
     </header>
   );
